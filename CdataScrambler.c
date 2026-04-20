@@ -16,7 +16,7 @@ int main(){
         int NumberInput=0;
         printf("Enter the number to decrypt...>");
         scanf("%d", &NumberInput);
-        NumberInput=NumberInput>>3;// shift bytes back to original number
+        NumberInput=NumberInput>>3;// shift bits back to original number
         printf("Done! decrypted data: %d\n Type and enter any text to exit", NumberInput);
         scanf("%s", PressToExitVariable);
     }
