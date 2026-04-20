@@ -1,3 +1,3 @@
-Simple, quick but precise code explainations below
+Simple, quick but precise code explanations below
 
-CdataSceambler: shifts number's bits by 3 to encrypt/decrypt
+CdataScrambler: shifts number's bits by 3 to encrypt/decrypt
